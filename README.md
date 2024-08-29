@@ -4,6 +4,8 @@ UI: Comfyui
 
 Checkpoints: Epic realism
 
+![graph](/images/IMG_0710.JPG)
+
 ![graph](/images/ComfyUI_00372_.png)
 
 ![graph](/images/ComfyUI_00379_.png)
