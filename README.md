@@ -4,22 +4,19 @@ UI: Comfyui
 
 Checkpoints: Epic realism
 
-![Alt text](path/to/image.jpg)
+![graph](/images/ComfyUI_00372_.png)
 
-![Alt text](path/to/image.jpg)
+![graph](/images/ComfyUI_00379_.png)
 
-![Alt text](path/to/image.jpg)
+![graph](/images/ComfyUI_00380_.png)
 
-![Alt text](path/to/image.jpg)
+![graph](/images/ComfyUI_00383_.png)
 
-![Alt text](path/to/image.jpg)
+![graph](/images/ComfyUI_00385_.png)
 
-![Alt text](path/to/image.jpg)
+![graph](/images/ComfyUI_00374_.png)
 
-![Alt text](path/to/image.jpg)
+![graph](/images/ComfyUI_00373_.png)
 
-![Alt text](path/to/image.jpg)
+![graph](/images/ComfyUI_00384_.png)
 
-![Alt text](path/to/image.jpg)
-
-![Alt text](path/to/image.jpg)
